@@ -1,0 +1,13 @@
+{
+  "Author": "Stelle Nightshade",
+  "Name": "Stellaron Lite",
+  "Punchline": "If this string ends up in a shipped plugin, Stelle will be very angry.",
+  "Description": "General-purpose Final Fantasy XIV development toolkit.\nPlease do not ship this string.",
+  "InternalName": "StellaronLite",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}
