@@ -1,4 +1,4 @@
-namespace StellaronLite.Impl;
+namespace AmongUsPlugin.Impl;
 
 // Ignored in this build.
 public enum ModuleCategory

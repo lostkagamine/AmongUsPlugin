@@ -1,6 +1,6 @@
 using ImGuiNET;
 
-namespace StellaronLite.Impl;
+namespace AmongUsPlugin.Impl;
 
 [Module("Nothing", ModuleCategory.Utility, "Does nothing.")]
 public class NothingModule : IModule

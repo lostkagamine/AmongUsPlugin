@@ -3,13 +3,13 @@ using Dalamud.Game.Command;
 using Dalamud.IoC;
 using Dalamud.Plugin;
 using System.IO;
+using AmongUsPlugin.Impl;
+using AmongUsPlugin.Util;
+using AmongUsPlugin.Windows;
 using Dalamud.Interface.Windowing;
 using Dalamud.Logging;
-using StellaronLite.Impl;
-using StellaronLite.Util;
-using StellaronLite.Windows;
 
-namespace StellaronLite
+namespace AmongUsPlugin
 {
     public sealed class Plugin : IDalamudPlugin
     {
@@ -52,7 +52,8 @@ namespace StellaronLite
         public void Dispose()
         {
             this.WindowSystem.RemoveAllWindows();
-            
+
+            ModuleManager.Module.Object.OnDisable();
             MainWindow.Dispose();
             AudioHelper.Teardown();
             

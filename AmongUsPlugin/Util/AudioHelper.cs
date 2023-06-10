@@ -1,10 +1,10 @@
 using System;
 using System.IO;
+using AmongUsPlugin.Util.Audio;
 using NAudio.Wave;
 using NAudio.Wave.SampleProviders;
-using StellaronLite.Util.Audio;
 
-namespace StellaronLite.Util;
+namespace AmongUsPlugin.Util;
 
 // Class for making in-game audio playback easier
 public class AudioHelper

@@ -1,5 +1,4 @@
-# Stellaron Lite for FINAL FANTASY XIV
-*FFXIV development envronment*
+# Among Us Plugin for FINAL FANTASY XIV
+*Stellaron Lite version of the Among Us module for FFXIV*
 
-Jumping-off point for the porting of Stellaron modules to standalone plugins.
-It's not like this matters to anyone else because I'm the only person who can write full Stellaron modules anyway.
+Plays the Among Us 'body found' sound whenever the words 'among us' appear in a story textbox.

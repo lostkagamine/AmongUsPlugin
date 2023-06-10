@@ -1,4 +1,4 @@
-namespace StellaronLite.Impl;
+namespace AmongUsPlugin.Impl;
 
 public interface IModule
 {

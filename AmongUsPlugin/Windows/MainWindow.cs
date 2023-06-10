@@ -2,13 +2,13 @@
 using System.Linq;
 using System.Numerics;
 using System.Reflection;
+using AmongUsPlugin.Impl;
 using Dalamud.Interface.Windowing;
 using Dalamud.Logging;
 using ImGuiNET;
 using ImGuiScene;
-using StellaronLite.Impl;
 
-namespace StellaronLite.Windows;
+namespace AmongUsPlugin.Windows;
 
 public class MainWindow : Window, IDisposable
 {

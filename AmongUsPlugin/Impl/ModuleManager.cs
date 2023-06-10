@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using Dalamud.Logging;
 
-namespace StellaronLite.Impl;
+namespace AmongUsPlugin.Impl;
 
 public class ModuleManager
 {
@@ -47,6 +47,8 @@ public class ModuleManager
             Enable = true,
             Object = (IModule)obj!
         };
+
+        info.Object.OnEnable();
 
         Module = info;
     }

@@ -1,0 +1,13 @@
+{
+  "Author": "Stelle Nightshade",
+  "Name": "Among Us",
+  "Punchline": "Plays the Among Us 'body found' sound whenever anyone says 'among us'.",
+  "Description": "Doing it for the bit.\n\nMade with Stellaron Lite.",
+  "InternalName": "AmongUsPlugin",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}

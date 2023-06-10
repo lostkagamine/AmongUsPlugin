@@ -1,6 +1,6 @@
 using System;
 
-namespace StellaronLite.Impl;
+namespace AmongUsPlugin.Impl;
 
 [AttributeUsage(AttributeTargets.Class)]
 public class ModuleAttribute : Attribute

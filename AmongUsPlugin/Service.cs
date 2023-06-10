@@ -3,7 +3,7 @@ using Dalamud.Game.ClientState;
 using Dalamud.Game.Gui;
 using Dalamud.IoC;
 
-namespace StellaronLite;
+namespace AmongUsPlugin;
 
 public class Service
 {

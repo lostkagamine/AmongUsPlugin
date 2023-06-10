@@ -21,6 +21,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="..\Data\amogus.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
   </ItemGroup>
 
   <PropertyGroup>

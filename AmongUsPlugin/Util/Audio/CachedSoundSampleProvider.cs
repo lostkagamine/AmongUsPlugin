@@ -1,7 +1,7 @@
 using System;
 using NAudio.Wave;
 
-namespace StellaronLite.Util.Audio;
+namespace AmongUsPlugin.Util.Audio;
 
 public class CachedSoundSampleProvider : ISampleProvider
 {
