@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80572bce-69a1-44ba-8b0f-7aa512b4cba5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.StellaronLite/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.StellaronLite/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.StellaronLite/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.StellaronLite/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Configuration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Configuration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Constants.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Constants.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Impl/IModule.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Impl/IModule.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Impl/ModuleAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Impl/ModuleAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Impl/ModuleCategory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Impl/ModuleCategory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Impl/ModuleManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Impl/ModuleManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Impl/NothingModule.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Impl/NothingModule.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Plugin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Plugin.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Service.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Service.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/StellaronLite.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/AmongUsPlugin.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/StellaronLite.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/AmongUsPlugin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Util/Audio/AutoDisposeFileReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Util/Audio/AutoDisposeFileReader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Util/Audio/CachedSound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Util/Audio/CachedSound.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Util/Audio/CachedSoundSampleProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Util/Audio/CachedSoundSampleProvider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Util/AudioHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Util/AudioHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/Windows/MainWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/Windows/MainWindow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StellaronLite/packages.lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmongUsPlugin/packages.lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="80572bce-69a1-44ba-8b0f-7aa512b4cba5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +13,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2R2EVX8DmQlEFowXDEkF4f2Bf51" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -71,14 +48,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686439805558</updated>
-      <workItem from="1686439805899" duration="690000" />
+      <workItem from="1686439805899" duration="812000" />
     </task>
+    <task id="LOCAL-00001" summary="sus">
+      <created>1686440585919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686440585919</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="sus" />
+    <option name="LAST_COMMIT_MESSAGE" value="sus" />
   </component>
 </project>
